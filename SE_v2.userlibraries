@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.sun.mail:javax.mail:1.6.2">
+    <archive path="C:/Users/Mo/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/Users/Mo/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:win:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:win:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:win:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-fxml/11/javafx-fxml-11-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:linux:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-linux.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:mac:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:win:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:linux:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-media/11/javafx-media-11-linux.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:mac:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-media/11/javafx-media-11-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-media:win:11">
+    <archive path="C:/Users/Mo/.m2/repository/org/openjfx/javafx-media/11/javafx-media-11-win.jar" />
+  </library>
+</eclipse-userlibraries>
+
